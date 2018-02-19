@@ -1,0 +1,15 @@
+h2{
+  color: #0eb8d6;
+}
+
+body{
+  text-align: center;
+} 
+
+#weatherDescription{
+  padding: 15px;
+}
+
+#temp{
+  padding: 10px;
+}
